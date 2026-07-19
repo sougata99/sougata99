@@ -22,15 +22,9 @@
 ## ✦ About Me
 
 <p align="left">
-<img src="./assets/data-scientist.png" width="22" align="center">
-&nbsp;
-Data Engineer with <b>3+ years</b> of experience building scalable ETL pipelines, Lakehouse platforms and distributed data processing solutions.
-</p>
-
-<p align="left">
 <img src="./assets/reporting.png" width="22" align="center">
 &nbsp;
-Passionate about designing modern cloud-native data platforms with performance, scalability and reliability.
+Data Engineer with <b>3+ years</b> of experience building scalable ETL pipelines, Lakehouse platforms and distributed data processing solutions. Passionate about designing modern cloud-native data platforms with performance, scalability and reliability.
 </p>
 
 ---
