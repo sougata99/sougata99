@@ -17,79 +17,79 @@
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-## ✦ Profile
+## ✦ About Me
 
-🚀 Data Engineer with **3+ years** of experience designing scalable ETL pipelines, streaming solutions, and Lakehouse architectures.
+<p align="left">
+<img src="./assets/data-scientist.png" width="22" align="center">
+&nbsp;
+Data Engineer with <b>3+ years</b> of experience building scalable ETL pipelines, Lakehouse platforms and distributed data processing solutions.
+</p>
 
-💡 Passionate about building modern cloud-native data platforms with performance, scalability, and reliability in mind.
+<p align="left">
+<img src="./assets/reporting.png" width="22" align="center">
+&nbsp;
+Passionate about designing modern cloud-native data platforms with performance, scalability and reliability.
+</p>
 
-### ✦ Primary Stack
+---
 
-<p>
+## ✦ Tech Stack
 
-<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
+<p align="left">
 
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,azure,aws,docker,git,github,postgres,linux"/>
 
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<p align="left">
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-EF3E42?style=flat-square&logo=databricks&logoColor=white"/>
 
-<br>
+<img src="https://img.shields.io/badge/PySpark-FEAA2D?style=flat-square&logo=apachespark&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Unity_Catalog-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Lakeflow-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI/CD-0A66C2?style=flat-square"/>
 
-<br>
+<img src="https://img.shields.io/badge/ETL-6A5ACD?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lakehouse-2563EB?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=flat-square"/>
 
 </p>
 
 ---
 
-### ✦ Currently Learning
-
-- Azure DevOps
-- Databricks Asset Bundles
-- Lakeflow Declarative Pipelines
-- Unity Catalog
-- Delta Live Tables
-
 📍 **Kolkata, India**
 
 </td>
 
-<td align="center">
+<td width="45%" align="center">
 
-<img width="320" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
+<img
+align="center"
+width="400"
+alt="Coding"
+src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
 </td>
 
 </tr>
 </table>
 
+---
+
 <p align="center">
-
-<i>"Turning raw data into production-ready data platforms."</i>
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Turning+raw+data+into+production-ready+data+platforms."/>
 </p>
 
 <p align="center">
